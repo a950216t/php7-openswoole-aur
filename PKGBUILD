@@ -1,4 +1,4 @@
-phpbase=74
+phpbase=7
 suffix=
 extname=openswoole
 pkgname=php${phpbase}-${extname}${suffix}
